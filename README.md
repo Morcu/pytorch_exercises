@@ -8,3 +8,6 @@ Some of the exercises and solutions can be found here: https://github.com/udacit
 
 - Gradient Descent
   - Basics of gradient Descent with toy Data
+- MNIST
+  - Solutions for MNIST and Fashion MNIST
+  - Some info about _validation set_, _transfer learning_ and _loading images' tips_
